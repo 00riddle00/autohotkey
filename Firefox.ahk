@@ -1,3 +1,4 @@
 F4::Run C:\Program Files (x86)\Mozilla Firefox\firefox.exe
-#F4::WinActivate New Tab
-;#F4::WinActivate Firefox
+
+SetTitleMatchMode RegEx
+#F4::WinActivate Firefox
