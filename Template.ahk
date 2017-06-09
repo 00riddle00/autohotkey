@@ -3,9 +3,10 @@
 ;! = Alt
 ;# = Windows Key
 
-; SetTitleMatchMode RegEx ;  - ka cia jis daro?
+; Does something
+; SetTitleMatchMode RegEx ;
 
-;Launching programs
+;Launch program
 ;F3::Run C:\Windows\System32\notepad.exe
 
 ;Activate window
